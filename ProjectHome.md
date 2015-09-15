@@ -1,0 +1,1 @@
+Ideally, this will become a fully anonymous way of reporting accurate attendance at gatherings, such as protests, events, etc.
